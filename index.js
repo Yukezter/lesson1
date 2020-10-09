@@ -58,7 +58,7 @@ as it will lead you to write code that is more performant.
 
 Another thing about variables in JS is that you don't need to specify the type before you assign them a value.
 Lower-level languages require you to explicitly state the data type as soon as you declare a variable
-because it needs to know what kind of data it is or will be. Read more here: https://stackoverflow.com/questions/18203636/    why-do-i-have-to-specify-data-type-each-time-in-c
+because it needs to know what kind of data it is or will be. Read more here: https://stackoverflow.com/questions/18203636/why-do-i-have-to-specify-data-type-each-time-in-c
 Like this: int someVariable = 420
 But, JS does this for you as well!
 */
