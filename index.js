@@ -44,8 +44,8 @@ Also, the first letter of any variable name can only be a '_' character or a let
 hereIsAnExample = some data
 */
 
-// shitTalking = 'No mames pendejo!!!'
-// console.log(shitTalking)
+// shitTalking = 'No mames pendejo!!!' // uncomment
+// console.log(shitTalking) // uncomment
 
 /*
 Now, we can reference that piece of data. We won't have to re-type it every time or allocate
